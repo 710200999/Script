@@ -1,3 +1,4 @@
+-- i'm gay
 print("You Are Using The Premium Banana Cat Hub Script")
 print("Banana Cat Hub")
 
