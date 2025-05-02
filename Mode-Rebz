@@ -1,8 +1,6 @@
 --
-print("mode version")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/710200999/Script/refs/heads/main/RedZ.lua"))() -- mode RedZ
 --
 --[[
-print("original")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau"))() -- RedZ origin
  ]]--
