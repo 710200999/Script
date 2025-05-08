@@ -4,4 +4,4 @@ local Settings = {
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/710200999/Script/refs/heads/main/Mode-Rebz"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/710200999/Script/refs/heads/main/Mode-Rebz"))()
