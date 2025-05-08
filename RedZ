@@ -1,7 +1,7 @@
 print("Blox Fruits 🟡")
 
 local Settings = {
-  JoinTeam = "Pirates"; 
+  JoinTeam = "Marines"; 
   Translator = true; 
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/710200999/Script/refs/heads/main/Mode-Rebz"))()
