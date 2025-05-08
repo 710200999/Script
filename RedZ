@@ -1,4 +1,4 @@
-print("Blox Fruits 🟡")
+print("Blox Fruits 🟢")
 
 local Settings = {
   JoinTeam = "Marines"; 
