@@ -1,4 +1,5 @@
 print("Blox Fruits 🟡")
+
 local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
